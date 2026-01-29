@@ -1,0 +1,13 @@
+﻿#2
+{passage}{0}
+{text}{0}{end}
+{passage}{1}
+{face}{pos2}{0}{e12}{end}
+{text}{1}{/p}{/n}
+{face}{pos2}{0}{e12}{end}
+{text}{2}{/p}{/n}
+{face}{pos2}{0}{e12}{end}
+{text}{3}{/p}{u20}{128}{223}{1}
+{end}
+{end}
+{end}

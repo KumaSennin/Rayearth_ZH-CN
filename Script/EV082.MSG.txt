@@ -1,0 +1,10 @@
+﻿#1
+{passage}{0}
+{voice}{128}{245}
+{face}{pos2}{0}{e12}{e14}{e17}{e17}{e12}{end}
+{text}{0}{/p}{u20}{129}{45}{1}
+{end}
+{end}
+{end}
+{end}
+{end}

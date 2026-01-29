@@ -1,0 +1,13 @@
+﻿#3
+{passage}{0}
+{text}{0}{u23}{0}{6}
+{text}{1}{/p}{end}
+{passage}{1}
+{text}{2}{u23}{0}{6}
+{text}{3}{/p}{end}
+{passage}{2}
+{text}{4}{u23}{0}{6}
+{text}{5}{/p}{end}
+{end}
+{end}
+{end}
